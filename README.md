@@ -1,2 +1,2 @@
 # MLB App
-Testing out the git
+This is a simple MLB app that has 3 routes: one to show yesterday's scores, one of today's scheduled games along with scores of any games that have started and one that shows schedule games tomorrow.
